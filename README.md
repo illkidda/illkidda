@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @cunaco,
 - 👀 I’m interested in telegram bot develepment, website development, AI research, gaming and gamedev
 - 🌱 I’m currently learning html, CSS, Python, JavaScript, Blender
-- 💞 I’m looking to participate in os and game development, studying and research.
+- 💞 I’m looking to participate in os and game development, search.
