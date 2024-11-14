@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cunaco,
+- 👋 Hi, I’m @illkidda,
 - 👀 I’m interested in AI research, gaming and gamedev
 - 🌱 I’m currently learning html, CSS, Python, JavaScript, Modelling
 - 💞 I’m looking to participate in os, database and game development
